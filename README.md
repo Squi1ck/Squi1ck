@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Squi1ck/Squi1ck/main/banner.png" width="100%" alt="Dinis Moreira"/>
+<img src="banner.png" width="100%" alt="Dinis Moreira"/>
 
 ![Estudante](https://img.shields.io/badge/ESTUDANTE%20DE%20PROGRAMA%C3%87%C3%83O-000000?style=for-the-badge)
 ![Games](https://img.shields.io/badge/GAME%20DEV-ffffff?style=for-the-badge&labelColor=000000)
@@ -89,22 +89,13 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 ---
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Squi1ck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Squi1ck?tab=repositories)
-
 <h2 align="center">🐍 Contribuições</h2>
 
 <div align="center">
 
+<img src="https://ghchart.rshah.org/a855f7/Squi1ck" alt="Contribuições de Squi1ck" width="100%"/>
+
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake.svg">
-  <img alt="Snake" src="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg" width="100%">
-</picture>
-
-</div>
-
-*⭐ Obrigado por passares pelo meu perfil!*
-
-</div>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sq
