@@ -1,10 +1,10 @@
 <div align="center">
 
-# DINIS MOREIRA
+<img src="assets/banner.png" width="100%" alt="Dinis Moreira"/>
 
-![Estudante](https://img.shields.io/badge/ESTUDANTE%20DE%20PROGRAMA%C3%87%C3%83O-1e3a8a?style=for-the-badge)
-![Games](https://img.shields.io/badge/GAME%20DEV-22d3ee?style=for-the-badge&labelColor=0d1117)
-![Software](https://img.shields.io/badge/SOFTWARE%20DEV-1e3a8a?style=for-the-badge)
+![Estudante](https://img.shields.io/badge/ESTUDANTE%20DE%20PROGRAMA%C3%87%C3%83O-000000?style=for-the-badge)
+![Games](https://img.shields.io/badge/GAME%20DEV-ffffff?style=for-the-badge&labelColor=000000)
+![Software](https://img.shields.io/badge/SOFTWARE%20DEV-000000?style=for-the-badge)
 
 </div>
 
@@ -40,7 +40,7 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Arquitetura](https://img.shields.io/badge/Arquitetura%20de%20Computadores-Intermédio-1e3a8a?style=for-the-badge)
+![Arquitetura](https://img.shields.io/badge/Arquitetura%20de%20Computadores-Intermédio-000000?style=for-the-badge)
 
 </div>
 
@@ -90,12 +90,6 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 ---
 
 <div align="center">
-
-![Projetos](https://img.shields.io/badge/Projetos-4-1e3a8a?style=for-the-badge)
-![Tecnologias](https://img.shields.io/badge/Tecnologias-12+-22d3ee?style=for-the-badge&labelColor=0d1117)
-![Idiomas](https://img.shields.io/badge/Idiomas-3-1e3a8a?style=for-the-badge)
-
-<br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Squi1ck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Squi1ck)
 
