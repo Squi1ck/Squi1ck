@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Dinis Moreira"/>
+<img src="banner.png" width="100%" alt="Dinis Moreira"/>
 
 ![Estudante](https://img.shields.io/badge/ESTUDANTE%20DE%20PROGRAMA%C3%87%C3%83O-000000?style=for-the-badge)
 ![Games](https://img.shields.io/badge/GAME%20DEV-ffffff?style=for-the-badge&labelColor=000000)
@@ -12,10 +12,10 @@
 
 <h2 align="center">🙋‍♂️ Sobre mim</h2>
 
-🎓 Estudante de **Programação** na escola profissional **Oficina**
-🛼 **Treinador de patinagem** no clube **CART** desde setembro de 2025
-🎮 Adoro **programar e jogar** nos tempos livres
-😄 Divertido, sociável e sempre a aprender
+🎓 Estudante de **Programação** na escola profissional **Oficina**<br/>
+🛼 **Treinador de patinagem** no clube **CART** desde setembro de 2025<br/>
+🎮 Adoro **programar e jogar** nos tempos livres<br/>
+😄 Divertido, sociável e sempre a aprender<br/>
 📍 Santo Tirso, Portugal
 
 O meu objetivo é simples: escrever código limpo, criar bons jogos e software e crescer até me tornar programador profissional.
@@ -36,11 +36,11 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 <img src="https://skillicons.dev/icons?i=js,html,css,cpp,cs,nodejs,react,arduino,mysql,supabase&theme=dark&perline=10" alt="Tecnologias"/>
 
-<br/><br/>
+<br/>
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Arquitetura](https://img.shields.io/badge/Arquitetura%20de%20Computadores-Intermédio-000000?style=for-the-badge)
+![Arquitetura](https://img.shields.io/badge/Arquitetura%20de%20Computadores%20--%20Interm%C3%A9dio-000000?style=for-the-badge)
 
 </div>
 
@@ -70,17 +70,17 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 <td width="50%" valign="top">
 
 ### 🗣️ Idiomas
-🇵🇹 Português — `Nativo`
-🇬🇧 Inglês — `Avançado`
+🇵🇹 Português — `Nativo`<br/>
+🇬🇧 Inglês — `Avançado`<br/>
 🇪🇸 Espanhol — `Intermédio`
 
 </td>
 <td width="50%" valign="top">
 
 ### 💡 Soft Skills
-✅ Trabalho em grupo
-✅ Capacidade de comunicação
-✅ Organização
+✅ Trabalho em grupo<br/>
+✅ Capacidade de comunicação<br/>
+✅ Organização<br/>
 ✅ Facilidade em adaptar-me
 
 </td>
