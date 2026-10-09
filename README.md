@@ -93,6 +93,11 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 <div align="center">
 
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Arquitetura](https://img.shields.io/badge/Arquitetura%20de%20Computadores%20--%20Interm%C3%A9dio-000000?style=for-the-badge)
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake.svg">
@@ -107,9 +112,7 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 [![GitHub](https://img.shields.io/badge/GitHub-Squi1ck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Squi1ck?tab=repositories)
 
-<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Squi1ck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Squi1ck)
 
 *⭐ Obrigado por passares pelo meu perfil!*
 
