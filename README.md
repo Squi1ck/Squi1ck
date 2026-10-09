@@ -13,7 +13,6 @@
 <h2 align="center">🙋‍♂️ Sobre mim</h2>
 
 🎓 Estudante de **Programação** na escola profissional **Oficina**<br/>
-🛼 **Treinador de patinagem** no clube **CART** desde setembro de 2025<br/>
 🎮 Adoro **programar e jogar** nos tempos livres<br/>
 😄 Divertido, sociável e sempre a aprender<br/>
 📍 Santo Tirso, Portugal
@@ -89,15 +88,19 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 ---
 
-<h2 align="center">📅 Contribuições</h2>
+<h2 align="center">🐍 Contribuições</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/contrib-atual.svg" width="100%" alt="Contribuições deste ano"/>
+<img src="https://ghchart.rshah.org/a855f7/Squi1ck" alt="Contribuições de Squi1ck" width="100%"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/contrib-anterior.svg" width="100%" alt="Contribuições do ano anterior"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake.svg">
+  <img alt="Snake" src="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg" width="100%">
+</picture>
 
 </div>
 
