@@ -96,11 +96,7 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake.svg">
-  <img alt="Snake" src="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg" width="100%">
-</picture>
+
 
 </div>
 
