@@ -93,13 +93,9 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/a855f7/Squi1ck" alt="Contribuições de Squi1ck" width="100%"/>
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake.svg">
   <img alt="Snake" src="https://raw.githubusercontent.com/Squi1ck/Squi1ck/output/snake-dark.svg" width="100%">
 </picture>
 
