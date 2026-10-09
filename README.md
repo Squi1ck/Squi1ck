@@ -91,7 +91,7 @@ O meu objetivo é simples: escrever código limpo, criar bons jogos e software e
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Squi1ck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Squi1ck)
+[![GitHub](https://img.shields.io/badge/GitHub-Squi1ck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Squi1ck?tab=repositories)
 
 *⭐ Obrigado por passares pelo meu perfil!*
 
