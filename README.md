@@ -10,13 +10,13 @@
 
 ---
 
-<h2 align="center">🙋‍♂️ Sobre mim</h2>
+<h2 align="center"> Sobre mim</h2>
 
-🎓 Estudante de **Programação** na escola profissional **Oficina**<br/>
-🛼 **Treinador de patinagem** no clube **CART** desde setembro de 2025<br/>
-🎮 Adoro **programar e jogar** nos tempos livres<br/>
-😄 Divertido, sociável e sempre a aprender<br/>
-📍 Santo Tirso, Portugal
+Estudante de **Programação** na escola profissional **Oficina**<br/>
+**Treinador de patinagem** no clube **CART** desde setembro de 2025<br/>
+Adoro **programar e jogar** nos tempos livres<br/>
+Divertido, sociável e sempre a aprender<br/>
+Santo Tirso, Portugal
 
 O meu objetivo é simples: escrever código limpo, criar bons jogos e software e crescer até me tornar programador profissional.
 
